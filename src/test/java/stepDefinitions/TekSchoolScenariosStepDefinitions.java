@@ -16,7 +16,7 @@ import utilities.Utility;
 public class TekSchoolScenariosStepDefinitions extends Base {
 	
 	/**
-	 * This is repo pulling code test  123455667
+	 * This is a test comment for git push 
 	 */
 
 	TekSchoolScenariosPageObject tekSchoolScenariosPageObject = new TekSchoolScenariosPageObject();
